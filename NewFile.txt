@@ -1,2 +1,5 @@
 New File Content.
 Add line from github interface
+
+Commit in STASH of Example02
+
