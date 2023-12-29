@@ -3,3 +3,4 @@ New line 02
 New line 03
 New line 04
 New line 05
+Git STASH
